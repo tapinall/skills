@@ -1,0 +1,82 @@
+[
+  {
+    "query": "find micro-influencers in the fitness niche to promote our protein bar launch",
+    "should_trigger": true
+  },
+  {
+    "query": "can you check if @glowwithmara's followers are real before we pay her $2k for a reel?",
+    "should_trigger": true
+  },
+  {
+    "query": "we sell hiking gear in the UK and want 15 TikTok creators for an affiliate program, budget around $5k",
+    "should_trigger": true
+  },
+  {
+    "query": "I need UGC creators who can make ad-style videos for our skincare Meta ads",
+    "should_trigger": true
+  },
+  {
+    "query": "which creators are already doing sponsored posts for Huel and AG1? we want similar people",
+    "should_trigger": true
+  },
+  {
+    "query": "market research is done in tap-suites, next step is influencer partnerships \u2014 build me a vetted shortlist with contacts",
+    "should_trigger": true
+  },
+  {
+    "query": "find YouTubers who review budgeting apps and tell me their real average views, not subscriber counts",
+    "should_trigger": true
+  },
+  {
+    "query": "compare these five Instagram creators on engagement and audience overlap and tell me which two to sponsor",
+    "should_trigger": true
+  },
+  {
+    "query": "looking for Brazilian food creators on Instagram with 10k\u2013100k followers who'd fit our coffee brand",
+    "should_trigger": true
+  },
+  {
+    "query": "is it better to work with one big creator or twenty small ones for driving sales of our app?",
+    "should_trigger": true
+  },
+  {
+    "query": "write cold DMs to the creators in tap-suites/creators/fitness.csv",
+    "should_trigger": false
+  },
+  {
+    "query": "what are my competitors posting on TikTok and what's actually working for them?",
+    "should_trigger": false
+  },
+  {
+    "query": "write five Reels scripts for my brand from the gaps we found",
+    "should_trigger": false
+  },
+  {
+    "query": "find 100 LinkedIn profiles of HR directors at mid-size companies",
+    "should_trigger": false
+  },
+  {
+    "query": "research my competitors' pricing, positioning and customer reviews",
+    "should_trigger": false
+  },
+  {
+    "query": "how do I grow my own Instagram following as a creator?",
+    "should_trigger": false
+  },
+  {
+    "query": "does ChatGPT recommend my brand when people ask for running shoes?",
+    "should_trigger": false
+  },
+  {
+    "query": "set up my brand profile and voice samples before we start",
+    "should_trigger": false
+  },
+  {
+    "query": "find keyword gaps against competitor.com for our blog",
+    "should_trigger": false
+  },
+  {
+    "query": "build me a growth plan for next quarter across all channels",
+    "should_trigger": false
+  }
+]

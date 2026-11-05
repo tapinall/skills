@@ -1,0 +1,82 @@
+[
+  {
+    "query": "what should I post on LinkedIn this month? I'm a solo founder of a payroll tool",
+    "should_trigger": true
+  },
+  {
+    "query": "what are my competitors posting on TikTok and what's actually working for them?",
+    "should_trigger": true
+  },
+  {
+    "query": "find content gaps for our skincare brand on Instagram and Reels",
+    "should_trigger": true
+  },
+  {
+    "query": "we have the profile and market research done in tap-suites, now build me a social content plan and write the first five posts",
+    "should_trigger": true
+  },
+  {
+    "query": "write LinkedIn posts for me from the stories in my proof bank",
+    "should_trigger": true
+  },
+  {
+    "query": "it's been two weeks since I published the carousels, how did my last posts do and what should I repeat?",
+    "should_trigger": true
+  },
+  {
+    "query": "should we post from my personal LinkedIn or the company page, and what goes on each?",
+    "should_trigger": true
+  },
+  {
+    "query": "turn the top gap from gaps.md into three Reels scripts with hooks",
+    "should_trigger": true
+  },
+  {
+    "query": "pull my own TikToks, compare them to my median and tell me which hooks worked",
+    "should_trigger": true
+  },
+  {
+    "query": "my bakery wants more followers on Instagram, can you research what's trending in our niche and draft posts",
+    "should_trigger": true
+  },
+  {
+    "query": "find micro-influencers in the fitness niche to promote our launch",
+    "should_trigger": false
+  },
+  {
+    "query": "write cold DMs to the creators in tap-suites/creators/fitness.csv",
+    "should_trigger": false
+  },
+  {
+    "query": "research my competitors' pricing, positioning and reviews",
+    "should_trigger": false
+  },
+  {
+    "query": "find keyword gaps against competitor.com for our blog",
+    "should_trigger": false
+  },
+  {
+    "query": "does ChatGPT recommend my brand when people ask for project management tools?",
+    "should_trigger": false
+  },
+  {
+    "query": "set up my business profile and voice samples before we write anything",
+    "should_trigger": false
+  },
+  {
+    "query": "build me a growth plan for getting more clients next quarter",
+    "should_trigger": false
+  },
+  {
+    "query": "find 100 LinkedIn profiles of HR directors at mid-size companies",
+    "should_trigger": false
+  },
+  {
+    "query": "schedule these posts to go out on Buffer every Tuesday",
+    "should_trigger": false
+  },
+  {
+    "query": "write my LinkedIn headline and About section",
+    "should_trigger": false
+  }
+]

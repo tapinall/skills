@@ -1,0 +1,74 @@
+[
+  {
+    "query": "Do keyword research for my bakery's website, I want to know what people actually search for",
+    "should_trigger": true
+  },
+  {
+    "query": "What should my SaaS blog try to rank for on Google this quarter?",
+    "should_trigger": true
+  },
+  {
+    "query": "My competitor outranks us for everything to do with 'payroll for contractors' - can you find the keywords and links they have that we don't?",
+    "should_trigger": true
+  },
+  {
+    "query": "write an SEO content brief for 'best standing desk for small spaces' based on what ranks now",
+    "should_trigger": true
+  },
+  {
+    "query": "We run a dental clinic in Leeds and barely show up in the map pack. Help with local SEO.",
+    "should_trigger": true
+  },
+  {
+    "query": "I already did the market research, now I need a search strategy: which topics, which pages, in what order",
+    "should_trigger": true
+  },
+  {
+    "query": "Find low-competition keywords we could realistically win with a 2-year-old domain",
+    "should_trigger": true
+  },
+  {
+    "query": "Which of these 40 keywords have AI Overviews and are they still worth writing for?",
+    "should_trigger": true
+  },
+  {
+    "query": "Can you do a backlink gap against our three main competitors and tell me which links we could get?",
+    "should_trigger": true
+  },
+  {
+    "query": "Does ChatGPT mention my brand when people ask for the best CRM for agencies?",
+    "should_trigger": false
+  },
+  {
+    "query": "Size the market for pet insurance in Germany and list the main competitors",
+    "should_trigger": false
+  },
+  {
+    "query": "Write five LinkedIn posts from our latest blog article",
+    "should_trigger": false
+  },
+  {
+    "query": "Find 200 marketing directors at fintech companies in the UK with emails",
+    "should_trigger": false
+  },
+  {
+    "query": "Draft a cold email sequence to the leads we found last week",
+    "should_trigger": false
+  },
+  {
+    "query": "Find TikTok creators in the home fitness niche with 10k to 100k followers",
+    "should_trigger": false
+  },
+  {
+    "query": "Set up my business profile so the other growth skills know my offer and voice",
+    "should_trigger": false
+  },
+  {
+    "query": "What should I do next to grow my business with Tapinall?",
+    "should_trigger": false
+  },
+  {
+    "query": "What's trending on TikTok for skincare right now?",
+    "should_trigger": false
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "query": "who are my competitors? I run a bookkeeping SaaS for UK dentists",
+    "should_trigger": true
+  },
+  {
+    "query": "compare competitor pricing for us: Calendly, SavvyCal and Cal.com, plans and price per seat",
+    "should_trigger": true
+  },
+  {
+    "query": "what do customers complain about in reviews of the big meal-kit brands? I want to know why people cancel",
+    "should_trigger": true
+  },
+  {
+    "query": "before we write any outreach, can you research the market for our HR tool and tell me where the gaps are",
+    "should_trigger": true
+  },
+  {
+    "query": "what ads are my competitors running on Facebook and LinkedIn, and which ones have been running longest?",
+    "should_trigger": true
+  },
+  {
+    "query": "find a gap in my market, I sell handmade dog collars on Amazon and Etsy",
+    "should_trigger": true
+  },
+  {
+    "query": "do a competitor analysis for my physio clinic in Leeds, google reviews included",
+    "should_trigger": true
+  },
+  {
+    "query": "mine the app store reviews of the top 3 habit tracker apps for pains and switching triggers",
+    "should_trigger": true
+  },
+  {
+    "query": "we're launching a CRM for wedding planners next quarter; map the competitive landscape, their positioning, hiring and funding",
+    "should_trigger": true
+  },
+  {
+    "query": "jobs to be done analysis from Reddit and Trustpilot on why people leave QuickBooks",
+    "should_trigger": true
+  },
+  {
+    "query": "find me 200 dental clinics in Texas with owner emails",
+    "should_trigger": false
+  },
+  {
+    "query": "write cold emails to these leads using the pain points from the market file",
+    "should_trigger": false
+  },
+  {
+    "query": "what keywords do my competitors rank for that I don't? build me content briefs",
+    "should_trigger": false
+  },
+  {
+    "query": "does ChatGPT mention my brand when people ask for the best CRM?",
+    "should_trigger": false
+  },
+  {
+    "query": "what are my competitors posting on TikTok and Instagram? give me a content plan",
+    "should_trigger": false
+  },
+  {
+    "query": "find micro-influencers in the fitness niche who could promote my protein bar",
+    "should_trigger": false
+  },
+  {
+    "query": "set up my business profile, my site is acme-dental.com",
+    "should_trigger": false
+  },
+  {
+    "query": "help me grow my agency, which tapinall skill should I run first?",
+    "should_trigger": false
+  },
+  {
+    "query": "what's the stock price trend of Shopify versus BigCommerce this year?",
+    "should_trigger": false
+  },
+  {
+    "query": "write a competitor comparison landing page for our website",
+    "should_trigger": false
+  }
+]

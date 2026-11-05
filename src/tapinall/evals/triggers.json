@@ -1,0 +1,66 @@
+[
+  {
+    "query": "help me grow my design studio, I don't know where to start",
+    "should_trigger": true
+  },
+  {
+    "query": "what can tapinall do for a solo bookkeeper looking for clients?",
+    "should_trigger": true
+  },
+  {
+    "query": "I want more B2B customers for my SaaS \u2014 build me a growth plan using tapinall",
+    "should_trigger": true
+  },
+  {
+    "query": "we finished the market research last week, what should I do next?",
+    "should_trigger": true
+  },
+  {
+    "query": "I'm a freelance photographer, how do I get more local clients with these tools",
+    "should_trigger": true
+  },
+  {
+    "query": "plan my product launch end to end with the tapinall skills",
+    "should_trigger": true
+  },
+  {
+    "query": "which tapinall skill should I run first for my agency?",
+    "should_trigger": true
+  },
+  {
+    "query": "I have a profile and a leads list in tap-suites, what's the next step to get clients",
+    "should_trigger": true
+  },
+  {
+    "query": "find me 200 verified emails of CTOs at fintech startups in Berlin",
+    "should_trigger": false
+  },
+  {
+    "query": "write cold emails for the leads in tap-suites/leads/fintech.csv",
+    "should_trigger": false
+  },
+  {
+    "query": "what are my competitors posting on TikTok?",
+    "should_trigger": false
+  },
+  {
+    "query": "check if ChatGPT mentions my brand when people ask for CRM tools",
+    "should_trigger": false
+  },
+  {
+    "query": "find keyword gaps against competitor.com",
+    "should_trigger": false
+  },
+  {
+    "query": "how much does tap.people.email.find cost per call?",
+    "should_trigger": false
+  },
+  {
+    "query": "install the tapinall CLI on my mac",
+    "should_trigger": false
+  },
+  {
+    "query": "find micro-influencers in the fitness niche for our protein launch",
+    "should_trigger": false
+  }
+]

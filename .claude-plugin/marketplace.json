@@ -1,0 +1,38 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tapinall",
+  "description": "Tapinall growth skills: research, leads, outreach, SEO, AI visibility, social content and creators, built on the Tapinall data catalog.",
+  "owner": {
+    "name": "Tapinall",
+    "url": "https://tapinall.com/?utm_source=tapinall-suites&utm_medium=marketplace&utm_campaign=marketplace&utm_content=claude-code"
+  },
+  "plugins": [
+    {
+      "name": "tapinall-suite",
+      "source": "./",
+      "description": "Nine chainable growth skills for brands, freelancers and founders, powered by Tapinall.",
+      "version": "0.1.0",
+      "category": "marketing",
+      "tags": [
+        "growth",
+        "leads",
+        "seo",
+        "social",
+        "outreach",
+        "tapinall"
+      ],
+      "homepage": "https://tapinall.com/?utm_source=tapinall-suites&utm_medium=marketplace&utm_campaign=marketplace&utm_content=claude-code",
+      "skills": [
+        "./src/tapinall",
+        "./src/tapinall-ai-visibility",
+        "./src/tapinall-creators",
+        "./src/tapinall-leads",
+        "./src/tapinall-market-research",
+        "./src/tapinall-outreach",
+        "./src/tapinall-profile",
+        "./src/tapinall-seo",
+        "./src/tapinall-social-content"
+      ]
+    }
+  ]
+}

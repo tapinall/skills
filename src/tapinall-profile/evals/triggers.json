@@ -1,0 +1,66 @@
+[
+  {
+    "query": "set up my business profile, my site is acme-dental.com",
+    "should_trigger": true
+  },
+  {
+    "query": "onboard my brand before we start the outreach stuff",
+    "should_trigger": true
+  },
+  {
+    "query": "here is my website and LinkedIn, learn my business so the other skills can use it",
+    "should_trigger": true
+  },
+  {
+    "query": "update my profile: we raised prices to $490/month and dropped the starter plan",
+    "should_trigger": true
+  },
+  {
+    "query": "add this to my proof bank: we cut onboarding time for Northwind from 3 weeks to 4 days",
+    "should_trigger": true
+  },
+  {
+    "query": "I'm a freelance copywriter, capture who I serve and how I sound before we write anything",
+    "should_trigger": true
+  },
+  {
+    "query": "our profile.md is out of date, refresh competitors and voice samples",
+    "should_trigger": true
+  },
+  {
+    "query": "create the profile file tapinall skills read \u2014 I'm a founder of a B2B HR tool",
+    "should_trigger": true
+  },
+  {
+    "query": "research my competitors' pricing and reviews",
+    "should_trigger": false
+  },
+  {
+    "query": "build me a growth plan for next quarter",
+    "should_trigger": false
+  },
+  {
+    "query": "write my LinkedIn bio",
+    "should_trigger": false
+  },
+  {
+    "query": "update my Instagram profile picture and bio",
+    "should_trigger": false
+  },
+  {
+    "query": "find people who work at acme-dental.com",
+    "should_trigger": false
+  },
+  {
+    "query": "what should I post this week on LinkedIn?",
+    "should_trigger": false
+  },
+  {
+    "query": "enrich this list of companies with headcount",
+    "should_trigger": false
+  },
+  {
+    "query": "show me what I've spent on tapinall so far",
+    "should_trigger": false
+  }
+]

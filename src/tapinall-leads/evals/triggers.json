@@ -1,0 +1,74 @@
+[
+  {
+    "query": "build me a lead list of heads of finance at UK fintechs with 50-200 staff",
+    "should_trigger": true
+  },
+  {
+    "query": "Find prospects for my bookkeeping service, ideally companies that just raised a seed round",
+    "should_trigger": true
+  },
+  {
+    "query": "I run a small web design studio. Can you find plumbers and electricians in Manchester that don't have a website, with emails?",
+    "should_trigger": true
+  },
+  {
+    "query": "which SaaS companies in Germany and the Netherlands are hiring RevOps people right now? I want the VP Sales at each with a verified email",
+    "should_trigger": true
+  },
+  {
+    "query": "get me work emails for the CMOs at these 40 domains and verify them before I load them into Instantly",
+    "should_trigger": true
+  },
+  {
+    "query": "We sell review management software. Pull dentists in Austin with under 4 stars or fewer than 20 reviews so I can pitch them",
+    "should_trigger": true
+  },
+  {
+    "query": "Our profile.md is done and the market research is in. Next step: turn the ICP into a list of 200 accounts and decision makers I can email",
+    "should_trigger": true
+  },
+  {
+    "query": "find companies similar to our three best customers (acme.io, globex.com, initech.co) and the operations lead at each",
+    "should_trigger": true
+  },
+  {
+    "query": "scrape a list of restaurants in Lisbon with outdated websites and owner contact details for my agency's cold outreach",
+    "should_trigger": true
+  },
+  {
+    "query": "write a cold email sequence for the leads in tap-suites/leads/dental-clinics-leeds.csv",
+    "should_trigger": false
+  },
+  {
+    "query": "how big is the market for AI bookkeeping tools and who are the main competitors?",
+    "should_trigger": false
+  },
+  {
+    "query": "find TikTok creators in the fitness niche with 10k-100k followers for a sponsorship campaign",
+    "should_trigger": false
+  },
+  {
+    "query": "set up my business profile so the other tapinall skills know my offer and audience",
+    "should_trigger": false
+  },
+  {
+    "query": "why is my local business not showing in the Google Maps pack for 'plumber near me'?",
+    "should_trigger": false
+  },
+  {
+    "query": "is my brand mentioned when people ask ChatGPT for the best CRM for agencies?",
+    "should_trigger": false
+  },
+  {
+    "query": "my cold emails are bouncing and landing in spam, how do I fix SPF, DKIM and DMARC on my domain?",
+    "should_trigger": false
+  },
+  {
+    "query": "what should I do first to grow my consultancy with tapinall?",
+    "should_trigger": false
+  },
+  {
+    "query": "draft LinkedIn posts that would attract heads of finance at fintechs",
+    "should_trigger": false
+  }
+]

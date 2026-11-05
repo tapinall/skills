@@ -1,0 +1,10 @@
+# Local BMad tooling used to build the suite; not published
+.agents/
+.claude/
+_bmad/
+_bmad-output/
+.v6-v7-migration-backup-*/
+skills-lock.json
+
+# Outputs the skills write when run in this repo
+tap-suites/

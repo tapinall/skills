@@ -1,0 +1,13 @@
+# Which shared files each skill receives in its references/ folder.
+# Run `uv run scripts/sync_shared.py` after editing a shared file or this map.
+
+[files]
+"tapinall.md" = ["*"]
+"setup.md" = ["*"]
+"anti-slop.md" = [
+  "tapinall-profile",
+  "tapinall-outreach",
+  "tapinall-seo",
+  "tapinall-social-content",
+  "tapinall-creators",
+]

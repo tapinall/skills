@@ -1,0 +1,78 @@
+[
+  {
+    "query": "Does ChatGPT ever recommend us when people ask for the best bookkeeping software for freelancers?",
+    "should_trigger": true
+  },
+  {
+    "query": "Run an AI visibility audit for our brand across ChatGPT, Perplexity and Gemini",
+    "should_trigger": true
+  },
+  {
+    "query": "We just finished the SEO pass. Next I want to know whether Google's AI Overviews and AI Mode mention our clinic at all, and who they name instead.",
+    "should_trigger": true
+  },
+  {
+    "query": "Why does Perplexity keep citing our competitors' comparison pages and never us?",
+    "should_trigger": true
+  },
+  {
+    "query": "Put together a GEO plan so AI assistants start recommending our agency",
+    "should_trigger": true
+  },
+  {
+    "query": "Re-run last month's AI search tracking with the same prompts and tell me if our share of voice went up",
+    "should_trigger": true
+  },
+  {
+    "query": "Copilot told a prospect our pricing starts at $99, which is wrong. Can you check what the AI engines say about us and where they get it from?",
+    "should_trigger": true
+  },
+  {
+    "query": "How often do LLMs mention Acme vs Globex for 'best project tool for small teams'? I need a number I can show the board.",
+    "should_trigger": true
+  },
+  {
+    "query": "Which sources do AI answer engines cite for our category, and which of them leave us out?",
+    "should_trigger": true
+  },
+  {
+    "query": "Do a keyword gap analysis against our top three competitors and plan blog posts",
+    "should_trigger": false
+  },
+  {
+    "query": "Why did our Google organic rankings drop after the core update?",
+    "should_trigger": false
+  },
+  {
+    "query": "Research the market for AI writing assistants: size, players and pricing",
+    "should_trigger": false
+  },
+  {
+    "query": "Write LinkedIn posts about our new AI feature",
+    "should_trigger": false
+  },
+  {
+    "query": "Find 50 marketing agencies in Texas that use HubSpot and get their founders' emails",
+    "should_trigger": false
+  },
+  {
+    "query": "Draft a cold email sequence pitching our tool to the authors of 'best CRM' listicles",
+    "should_trigger": false
+  },
+  {
+    "query": "Find TikTok creators who review productivity apps",
+    "should_trigger": false
+  },
+  {
+    "query": "Set up my business profile for the Tapinall suite",
+    "should_trigger": false
+  },
+  {
+    "query": "Which ChatGPT model is best for summarising customer reviews?",
+    "should_trigger": false
+  },
+  {
+    "query": "What should I work on next to grow the business?",
+    "should_trigger": false
+  }
+]

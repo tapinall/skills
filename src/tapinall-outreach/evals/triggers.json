@@ -1,0 +1,82 @@
+[
+  {
+    "query": "write cold emails to the leads in tap-suites/leads/dental-clinics.csv",
+    "should_trigger": true
+  },
+  {
+    "query": "I have 60 agency founders in a spreadsheet, can you build me an outreach sequence I can load into Instantly?",
+    "should_trigger": true
+  },
+  {
+    "query": "personalise first lines for these prospects based on what they've posted recently",
+    "should_trigger": true
+  },
+  {
+    "query": "Set up a LinkedIn DM campaign for the marketing directors we found last week, I'm on a free account",
+    "should_trigger": true
+  },
+  {
+    "query": "pitch these creators for a paid collab on our new protein bar, the list is in tap-suites/creators/fitness.csv",
+    "should_trigger": true
+  },
+  {
+    "query": "I'm a freelance UX designer and want to email 30 SaaS founders without sounding like a bot. Can you research each one and write a 4-step sequence?",
+    "should_trigger": true
+  },
+  {
+    "query": "turn my lead list into a Smartlead import with subject lines and follow-ups",
+    "should_trigger": true
+  },
+  {
+    "query": "We got the leads file from the last run. Next step: write the outreach, top 20 deep personalisation and the rest light, keep it under $5",
+    "should_trigger": true
+  },
+  {
+    "query": "how many follow-ups should my cold sequence have, and can you write them for this list?",
+    "should_trigger": true
+  },
+  {
+    "query": "draft connection notes and first messages for these 15 CTOs, here are their LinkedIn URLs",
+    "should_trigger": true
+  },
+  {
+    "query": "find me 200 SaaS companies in Germany with 50-200 employees and their heads of marketing",
+    "should_trigger": false
+  },
+  {
+    "query": "get verified work emails for the people on this list",
+    "should_trigger": false
+  },
+  {
+    "query": "find TikTok creators in the skincare niche with under 100k followers",
+    "should_trigger": false
+  },
+  {
+    "query": "write three LinkedIn posts for my personal brand this week",
+    "should_trigger": false
+  },
+  {
+    "query": "set up my business profile so the other tools know what I sell",
+    "should_trigger": false
+  },
+  {
+    "query": "research the market for AI bookkeeping tools for small firms",
+    "should_trigger": false
+  },
+  {
+    "query": "draft a reply to this client who is unhappy with our invoice",
+    "should_trigger": false
+  },
+  {
+    "query": "write our monthly newsletter to existing subscribers about the spring sale",
+    "should_trigger": false
+  },
+  {
+    "query": "find sites to pitch for backlinks to our pricing guide",
+    "should_trigger": false
+  },
+  {
+    "query": "what are competitors posting on Instagram and where are the content gaps",
+    "should_trigger": false
+  }
+]
