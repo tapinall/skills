@@ -16,7 +16,9 @@ In the dashboard they create a project token, which starts with `tap_`.
 
 ## Connect
 
-Pick the route the host supports:
+A Claude Code user who installed the `tapinall-suite` plugin already has the Tapinall MCP server registered; it shows as needing authentication until they sign in. They run `/mcp`, choose the Tapinall server and sign in through the browser (creating the account from the link above first if they have none). Nothing else to install.
+
+Otherwise, pick the route the host supports:
 
 - **Local CLI and MCP** (Claude Code, Cursor, Codex, OpenCode, Gemini CLI):
   1. Install: on macOS or Linux, `curl -fsSL https://tapinall.com/install.sh | sh`, then follow its PATH instruction. On Windows, download `tapinall.exe` and `tapinall-mcp.exe` from `https://tapinall.com/v1/cli/download/windows-x64?bin=tapinall` (and `bin=tapinall-mcp`) into one folder on the PATH. The installer runs a remote script, so show the command and ask before running it.

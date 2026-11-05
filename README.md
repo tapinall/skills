@@ -23,6 +23,8 @@ As a Claude Code plugin:
 /plugin install tapinall-suite@tapinall
 ```
 
+The plugin also connects Tapinall's MCP server: run `/mcp`, pick Tapinall and sign in, and the skills are ready.
+
 ## Connect Tapinall
 
 New accounts get $1 of test credit. [Create an account](https://tapinall.com/v1/auth/login?screen=register&utm_source=github&utm_medium=readme&utm_campaign=tapinall-skills), make a project token, then:

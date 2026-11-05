@@ -11,7 +11,7 @@
       "name": "tapinall-suite",
       "source": "./",
       "description": "Nine chainable growth skills for brands, freelancers and founders, powered by Tapinall.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "marketing",
       "tags": [
         "growth",
@@ -32,7 +32,13 @@
         "./src/tapinall-profile",
         "./src/tapinall-seo",
         "./src/tapinall-social-content"
-      ]
+      ],
+      "mcpServers": {
+        "tapinall": {
+          "type": "http",
+          "url": "https://tapinall.com/mcp"
+        }
+      }
     }
   ]
 }
